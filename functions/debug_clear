@@ -1,0 +1,5 @@
+clear @e
+fixe severything by clearing everythin
+
+execute @e ~~~ say e
+says al entity in the game
